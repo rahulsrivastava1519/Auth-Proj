@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649068837817",
+    "firebase_url": "https://auth-project-cbb51.firebaseio.com",
+    "project_id": "auth-project-cbb51",
+    "storage_bucket": "auth-project-cbb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649068837817:android:0455902cddb675704e1468",
+        "android_client_info": {
+          "package_name": "com.example.auth_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649068837817-aqcp22uhgl06f2ro50vtnje9uscd1999.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjXC9665gBtcf_mLw-6ehMml7rdm5q1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649068837817-aqcp22uhgl06f2ro50vtnje9uscd1999.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
